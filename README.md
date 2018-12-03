@@ -65,10 +65,10 @@ int inputData(string v)
 
 
 **1.Png**
-
+![ss1](https://raw.githubusercontent.com/raninurhayati/Praktikum6/master/latihan1.cpp/1.pgn.png)
 
 **flowchart program**
-![flowchart1]()
+![flowchart1](https://raw.githubusercontent.com/raninurhayati/Praktikum6/master/latihan1.cpp/flowchart1.jpg)
 
 
 
@@ -110,10 +110,10 @@ return 0;
 
 
 **hasilnya**
-![hasil 2.1]()
+![hasil 2.1](https://raw.githubusercontent.com/raninurhayati/Praktikum6/master/latihan2.cpp/hasil%202.1.PNG)
 
 **flowchart program**
-![flowchart1]()
+![flowchart1](https://raw.githubusercontent.com/raninurhayati/Praktikum6/master/latihan2.cpp/flowchart%202.1.jpg)
 
 
 ## Latihan 2: 
@@ -155,9 +155,9 @@ main(){
 
 
 **hasilnya**
-![hasil 2.2]()
+![hasil 2.2](https://raw.githubusercontent.com/raninurhayati/Praktikum6/master/latihan2.cpp/hasil%202.2.PNG)
 
 **flowchart program**
-![flowchart2e]()
+![flowchart2e](https://raw.githubusercontent.com/raninurhayati/Praktikum6/master/latihan2.cpp/flwochart%202.2.jpg)
 
 
