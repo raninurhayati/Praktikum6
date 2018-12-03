@@ -1,5 +1,4 @@
-# Praktikum6
-
+#praktikum6
 ## Latihan 1: mengunakan header untuk mengabungkan fungsi void
 **Alur algoritma**
 
@@ -65,10 +64,10 @@ int inputData(string v)
 
 
 **1.Png**
-
+https://github.com/raninurhayati/praktikum6/blob/master/latihan1/1.png
 
 **flowchart program**
-![flowchart1]()
+![flowchart1](https://github.com/raninurhayati/praktikum6/blob/master/latihan1/flowchart1.jpg)
 
 
 
@@ -110,10 +109,10 @@ return 0;
 
 
 **hasilnya**
-![hasil 2.1]()
+![hasil 2.1](https://github.com/raninurhayati/praktikum6/blob/master/latihan2/hasil 2.1)
 
 **flowchart program**
-![flowchart1]()
+![flowchart1](https://github.com/raninurhayati/praktikum6/blob/master/latihan2/flowchart2.1.jpg)
 
 
 ## Latihan 2: 
@@ -155,9 +154,9 @@ main(){
 
 
 **hasilnya**
-![hasil 2.2]()
+![hasil 2.2](https://github.com/raninurhayati/praktikum6/blob/master/latihan2/hasil 2.2)
 
 **flowchart program**
-![flowchart2e]()
+![flowchart2e](https://github.com/raninurhayati/praktikum6/blob/master/latihan2/flowchart2.2.jpg)
 
 
